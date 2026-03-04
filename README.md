@@ -30,6 +30,9 @@ Hybrid retrieval pipeline with BM25, dense reranking, and faithfulness evaluatio
 **[BRFSS Health Analytics](https://github.com/keerthanyaa/STAT515-project-Spring2025-BRFSSanalysis)**  
 Survey-weighted statistical analysis of CDC health data using R
 
+**[Metadata Analytics Dashboard](https://github.com/keerthanyaa/AIT582-Project-Fall25-DREAM)**  
+Metadata analytics and visualization dashboard built with HTML and Python
+
 ---
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/keerthanyaa-nirmalkumar)
